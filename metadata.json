@@ -1,0 +1,6 @@
+{
+  "name": "FreshQueue CRM - Funnel Leak & Demo Rescue System",
+  "description": "Smart sales CRM with Excel data upload, 48-Hour Demo Freshness Queue, automated no-show risk highlighting, and economic leakage recovery dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
